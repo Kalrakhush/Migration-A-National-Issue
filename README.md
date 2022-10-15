@@ -1,1 +1,1 @@
-# Migration
+# This is the group project designed by our team in IBM Skillsbuild Data Analytics Inovation camp in 2022.In this project data of various feilds is examined and state with most migrating people is predicted 
